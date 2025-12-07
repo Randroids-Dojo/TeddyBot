@@ -1,0 +1,23 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+# Claude Code local instructions (personal, not shared)
+CLAUDE.local.md
+
+# User secrets
+secrets.json
+
+# Beads local database
+.beads/beads.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE user-specific
+*.user
+*.suo
+.vs/
